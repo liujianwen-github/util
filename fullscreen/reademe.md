@@ -1,0 +1,1 @@
+调用  screenfull&&screenfull.request()
